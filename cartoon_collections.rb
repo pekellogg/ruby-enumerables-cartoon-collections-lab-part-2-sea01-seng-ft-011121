@@ -27,4 +27,6 @@ def find_valid_calls(planeteer_calls)
     if value == valid_calls[value]
     end}
 end
+planeteer_calls = ["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
+
 find_valid_calls(planeteer_calls)
