@@ -27,3 +27,4 @@ def find_valid_calls(planeteer_calls)
     if value == valid_calls[value]
     end}
 end
+find_valid_calls(planeteer_calls)
